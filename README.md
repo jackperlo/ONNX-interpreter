@@ -1,4 +1,3 @@
-https://drive.google.com/uc?export=view&id=
 ![Example Image](https://drive.google.com/uc?export=view&id=1wSmemLV1Nmxlz7_mOmuT9iXnEWbbx3Fn)<br/>
 ![Example Image](https://drive.google.com/uc?export=view&id=114DoHMphki1mnS1L0WHBHfH57s0RDmTo)<br/>
 ![Example Image](https://drive.google.com/uc?export=view&id=1lkG193lgsBAW-qTpKksTY4MmhTvKhzGh)<br/>
