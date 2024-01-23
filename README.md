@@ -1,4 +1,4 @@
-![Example Image](https://drive.google.com/uc?export=view&id=1wSmemLV1Nmxlz7_mOmuT9iXnEWbbx3Fn)<br/>
+![Example Image](https://drive.google.com/uc?export=view&id=1wdPvKPtcsc7eY2-wQq1arDrQcSzYTJTE)<br/>
 ![Example Image](https://drive.google.com/uc?export=view&id=114DoHMphki1mnS1L0WHBHfH57s0RDmTo)<br/>
 ![Example Image](https://drive.google.com/uc?export=view&id=1lkG193lgsBAW-qTpKksTY4MmhTvKhzGh)<br/>
 ![Example Image](https://drive.google.com/uc?export=view&id=1I1_P1WSh4Ue-PmsXfqkh4zmasOc5Xv5m)<br/>
