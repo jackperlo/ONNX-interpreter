@@ -12,3 +12,12 @@ Cargo.lock
 
 # MSVC Windows builds of rustc generate these, which store debugging information
 *.pdb
+
+# C-Lion configurations
+.idea
+
+# binaries
+.DS_Store
+
+# virtual environment for python
+.env
